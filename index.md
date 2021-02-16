@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+<p style='text-align: justify;'>Seja bem vindo ao repositório de métodos de otimização do Grupo de Pesquisas e Estudos em Engenharia (GPEE). Esse grupo foi criado em 2017 e é coordenado pelo professor <a href="http://lattes.cnpq.br/2268506213083114">Wanderlei M. Pereira Junior</a></p>. Nesta gitpage você podera encontrar algumas teorias sobre otimização, publicações do grupo de pesquisa e até mesmo os algoritmos.</p> 
 
-You can use the [editor on GitHub](https://github.com/wmpjrufg/METODOS-OTIMIZACAO/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p style='text-align: justify;'>O desenvolvimento desse material está ligado ao grupo de pesquisa GPEE e as IC's referentes aos trabalhos de otimização. Além disso o grupo de pesquisa conta com a cooperação de outras instituições de pesquisa como por exemplo a Pontifícia Universidade Católica de Goiás (PUC-GO). Nesta instituição o grupo é coordenador pela professora <a href="http://lattes.cnpq.br/5115002204148904">Maria José Pereira Dantas</a></p>.</p> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Conceitos iniciais sobre otimização
+### Aplicações da otimização
+### Os métodos de otimização
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wmpjrufg/METODOS-OTIMIZACAO/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
