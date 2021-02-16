@@ -4,5 +4,11 @@
 
 Logo todo problema de otimização poderá ser composto por:
 
+* Função objetivo: Uma função matemática que conterá as variáveis do problema, sendo está o alvo de uma máximização ou minimização;
+* Variáveis de projeto: Em otimização é comum que as variáveis do problema (aquelas que deseja encontrar) sejam denominadas de variáveis de projeto;
+* Restrições: Um conjunto de funções ou valores que delimitam o domínio de busca das variáveis de projeto. Em alusão ao projeto do motor, emissão de gases e nível de ruído podem ser dadas como restrições;
+* Espaço de busca: Região do espaço de solução onde se encontra um possível candidato a resposta ótima do problema.
+
+
 
 
