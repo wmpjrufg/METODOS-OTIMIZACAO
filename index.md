@@ -2,7 +2,7 @@
 
 <p style='text-align: justify;'>O desenvolvimento desse material está ligado ao grupo de pesquisa GPEE e as IC's referentes aos trabalhos de otimização. Além disso o grupo de pesquisa conta com a cooperação de outras instituições de pesquisa como por exemplo a Pontifícia Universidade Católica de Goiás (PUC-GO). Nesta instituição o grupo é coordenador pela professora <a href="http://lattes.cnpq.br/5115002204148904">Maria José Pereira Dantas</a>.</p> 
 
-### Conceitos iniciais sobre otimização
+### [Conceitos iniciais sobre otimização](https://github.com/wmpjrufg/METODOS-OTIMIZACAO/blob/gh-pages/page_1.html)
 ### Aplicações da otimização
 ### Os métodos de otimização
 
